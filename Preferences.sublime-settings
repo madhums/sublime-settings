@@ -17,6 +17,7 @@
 		"Vintage"
 	],
 	"shift_tab_unindent": true,
+	"soda_classic_tabs": true,
 	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
