@@ -33,9 +33,9 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Comment</string>
+            <string>Comments</string>
             <key>scope</key>
-            <string>comment</string>
+            <string>comment, comment punctuation</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -46,15 +46,30 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Comments</string>
+            <string>Comments: Preprocessor</string>
             <key>scope</key>
-            <string>comment, comment punctuation</string>
+            <string>comment.block.preprocessor</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
                 <string>#ADADAD</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Comments: Documentation</string>
+            <key>scope</key>
+            <string>comment.documentation, comment.block.documentation</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#FFFDF7</string>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#BC670F</string>
             </dict>
         </dict>
         <dict>
