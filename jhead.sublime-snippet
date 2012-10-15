@@ -1,9 +1,15 @@
 <snippet>
   <content><![CDATA[
-console.log(${1})
+---
+layout: post
+categories: [${1:categories}]
+title: ${2:title}
+keywords: ${3:keywords}
+summary: ${4:summary}
+---
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>cl</tabTrigger>
+  <tabTrigger>jek</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <!-- <scope>source.python</scope> -->
+  <!-- <scope>source.markdown</scope> -->
 </snippet>

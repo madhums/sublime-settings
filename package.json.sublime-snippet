@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+{
+    "name": "${1:package name}"
+  , "version": "0.0.1"
+  , "description": "${2:package description}"
+  , "keywords": ["${3:keywords}"]
+  , "author": "Madhusudhan Srinivasa <madhums8@gmail.com>"
+  , "repository": "git://github.com/madhums/${4:module name}"
+  , "devDependencies": "${5:dev dependencies}"
+  , "dependencies": "${6:dependencies}"
+  , "scripts": "${7:scripts}"
+  , "main": "index"
+  , "engines": { "node": ">= 0.4.x" }
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>pj</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

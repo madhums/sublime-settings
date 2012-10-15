@@ -1,11 +1,13 @@
 {
-	"auto_upgrade_last_run": 1346222599,
+	"auto_upgrade_last_run": 1350301727,
 	"git_binary": "/usr/local/bin/git",
 	"installed_packages":
 	[
+		"DocBlockr",
 		"LoremIpsum",
 		"Package Control",
 		"Prefixr",
-		"Pretty JSON"
+		"Pretty JSON",
+		"Tag"
 	]
 }
