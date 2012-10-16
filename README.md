@@ -14,6 +14,6 @@ git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
 ```
 
 You must install these two packages if you are a javascript developer
-https://github.com/visionmedia/node.tmbundle and https://github.com/spadgos/sublime-jsdocs
+https://github.com/visionmedia/node.tmbundle and https://github.com/spadgos/sublime-jsdocs and https://github.com/visionmedia/mocha/tree/master/editors/JavaScript%20mocha.tmbundle
 
 Restart sublimetext
