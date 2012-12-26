@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1350301727,
+	"auto_upgrade_last_run": null,
 	"git_binary": "/usr/local/bin/git",
 	"installed_packages":
 	[
@@ -8,6 +8,7 @@
 		"Package Control",
 		"Prefixr",
 		"Pretty JSON",
+		"SplitScreen",
 		"Tag"
 	]
 }
