@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+module.exports = function (${1:arguments}) {
+  ${2:// body}
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>me</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
