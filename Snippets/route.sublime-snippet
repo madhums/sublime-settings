@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+app.${1:method}('/${2:route}', ${3:route middelewares,} ${4:resource.method})
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ro</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
