@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
 res.render('${1:template}', {
-    title: '${2:title}'
-  , ${3:name}: ${4:value}
+  title: '${2:title}',
+  ${3:name}: ${4:value}
 })
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
