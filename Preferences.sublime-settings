@@ -1,6 +1,6 @@
 {
 	"caret_style": "smooth",
-	"color_scheme": "Packages/User/Themes/Github.tmTheme",
+	"color_scheme": "Packages/User/Themes/Railscasts.tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
@@ -30,5 +30,8 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 80,
+	"scroll_past_end": true,
+	"move_to_limit_on_up_down": true,
+	"draw_indent_guides": true
 }
